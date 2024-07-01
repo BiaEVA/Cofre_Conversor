@@ -1,2 +1,1 @@
-# Cofre_Conversor
-Uma biblioteca pensada para o público infantil, onde as crianças podem adicionar os livros que foram lidos ao longo do dia e deixar sua opinião registrada 
+Esse é um projeto de faculdade e trata-se de um sistema Java que simula um cofre virtual. Nele é possível adicionar moedas como dolar, euro e real, assim como removelas. O cofre é capaz de converter o valor dessas moedas para o real possibilitando ao usuário ter uma noção do valor adicionado e removido.
